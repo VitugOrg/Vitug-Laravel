@@ -56,5 +56,5 @@ jobs:
         with:
           app-name: 'PDC50-Killian-Vitug'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_131746A5DBF44E4DA505EE431C1872FB }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_0488694A7EED4EE1B31FB4D9A0B92D95 }}
           package: .
